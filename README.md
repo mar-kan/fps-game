@@ -4,4 +4,4 @@ Enemies come in waves and the objective is to stay alive as long as possible.
 
 --------------------
 
-Many files are missing because there wasn't enough space.
+In order to run, all files must be downloaded and unzipped.
